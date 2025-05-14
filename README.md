@@ -1,26 +1,8 @@
 # COMM4190 Spring 2025 - Research Project
 
-* Use this repository for your Research Project
-
 
 ### Overview
 
-* The focus of this project is to either:
-  1. Select a theoretical communication framework (e.g. Accomodation Theory) developed to explain human communication behavior and explore its implications for communicating with (in both senses) an LLM.
-  2. Examine a specific communicative context or example (e.g. political debate, interaction between customer and service representive, a messaging campaign in health communication, etc.) and explore whether and how LLMs might be used and the associated implications.
- 
-     
-* Write a paper/report in Markdown using Zotero citations.
+AI and LLMs are shaping the way we view and consume media. This is already implicating various positive and negative effects on related processes of much greater stakes. For instance, political messaging is already charged with volatile influences on democratic processes and polarization within the U.S. Unfortunately with the advent of more advanced AI and LLM technologies, the current effects seen within this scope is amplified, both the good and the bad.
 
-
-### Method
-
-* Add notebooks, Markdown files, your BibTex bibliography file, PDFs, images etc. to the repo related to your project.
-* The report should be in a Notebook and use the citation extension of JupyterLab to add citations.
-* You can render the Notebook to PDF using "Save and Export as" function in JupyterLab.
-* You make have additional notebooks or other files to show your empirical LLM work.
-
----
-
-### DELETE THE ABOVE CONTENT AND USE THIS FILE TO PROVIDE A DESCRIPTION AND OVERVIEW OF YOUR PROJECT
-
+Of course, it should be reiterated there are both positive and negative opportunities presented with this technology, and we'd be remissed to not consider both sides of the coin. My exploration of this subject-LLM and AI influence within the realm of political messaging and the political landscape-will consider the various contexts with which this technology can be used, and the associated effects of its usage. The aim will be to synthesize and reflect some of the many opinions surrounding this topic, and determining whether or not one side outweighs the other. This paper will also consider potential remedies and solutions against the negative implications that surface in my findings. Finally, I will also supplement some of these findings with direct engagements with the LLMs themselves (ChatGPT-4o), guaging their opinions on the matter and examining some of the possible biases that this research claims exists.
